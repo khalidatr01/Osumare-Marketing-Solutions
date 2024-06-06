@@ -1,0 +1,9 @@
+project-root/
+├── index.html
+├── styles/
+│   └── style.css
+├── scripts/
+│   └── main.js
+└── images/
+    └── example.jpg
+
